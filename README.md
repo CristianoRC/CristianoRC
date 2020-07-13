@@ -1,7 +1,7 @@
 ### Cristiano Raffi Cunha
 Olá, Meu nome é Cristiano, desenvolvedor .NET. Apaixonado por desenvolvimento de software, educação e o mundo open source.
 
-💼Linkedin: https://www.linkedin.com/in/cristianorc/
+💼 Linkedin: https://www.linkedin.com/in/cristianorc/
 
 📘 Blog: https://medium.com/cristiano-cunha
 
