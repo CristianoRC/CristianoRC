@@ -6,15 +6,11 @@
   <a href="https://medium.com/cristiano-cunha">Blog</a> •
   <a href="https://www.linkedin.com/in/cristianorc/">LinkedIn</a> •
   <a href="https://cristianoprogramador.com">Site</a> •
-  <a href="https://www.youtube.com/channel/UCeDFP_iLSFUACJ1E0yLGgkw">Youtube</a> 
+  <a href="https://www.youtube.com/channel/UCeDFP_iLSFUACJ1E0yLGgkw">Youtube</a> •
+  <a href="mailto:contato@cristianoprogramador.com">E-mail</a> 
 </p>
 <hr/>
 
 <p align="center">
   Olá, Meu nome é Cristiano, desenvolvedor .NET. Apaixonado por desenvolvimento de software, educação e o mundo open source.
-</p>
-
-
-<p align="center">
-  📫E-mail: Contato@cristianoprogramador.com
 </p>
