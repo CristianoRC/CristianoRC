@@ -13,7 +13,6 @@
 <p align="center">
   Olá, Meu nome é Cristiano, desenvolvedor .NET. Apaixonado por desenvolvimento de software, educação e o mundo open source.
 </p>
-<hr/>
 
 ----
 
