@@ -9,8 +9,14 @@
   <a href="https://www.youtube.com/channel/UCeDFP_iLSFUACJ1E0yLGgkw">Youtube</a> •
   <a href="mailto:contato@cristianoprogramador.com">E-mail</a> 
 </p>
-<hr/>
 
 <p align="center">
   Olá, Meu nome é Cristiano, desenvolvedor .NET. Apaixonado por desenvolvimento de software, educação e o mundo open source.
 </p>
+<hr/>
+
+----
+
+#### 📖 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
