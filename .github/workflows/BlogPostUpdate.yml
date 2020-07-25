@@ -1,6 +1,7 @@
 name: Latest blog post workflow
 on:
-  workflow_dispatch: 
+  workflow_dispatch:
+  repository_dispatch: 
   schedule:
     - cron: "0 0 1 * *"
       
