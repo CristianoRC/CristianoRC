@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   repository_dispatch: 
   schedule:
-    - cron: "0 0 1 * *"
+    - cron: "0 0 * * SUN"
       
 jobs:
   update-readme-with-blog:
