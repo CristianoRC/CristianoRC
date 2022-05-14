@@ -8,11 +8,11 @@
   <a href="https://medium.com/cristiano-cunha">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="site">
   </a> 
-  <a href="https://www.linkedin.com/in/cristianorc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="site">
-  </a>
   <a href="https://cristianoprogramador.com">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="site">
+  </a>
+  <a href="https://www.linkedin.com/in/cristianorc/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="site">
   </a>
   <a href="https://www.youtube.com/channel/UCeDFP_iLSFUACJ1E0yLGgkw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="site">
