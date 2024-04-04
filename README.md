@@ -3,10 +3,9 @@
 </p>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&size=40&center=true&vCenter=true&width=1000&lines=Cristiano+Raffi+Cunha)](https://git.io/typing-svg)
-
 <p align="center">
-  <a href="https://medium.com/cristiano-cunha">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="site">
+  <a href="https://blog.cristianoprogramador.com/">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge" alt="site">
   </a> 
   <a href="https://cristianoprogramador.com">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="site">
