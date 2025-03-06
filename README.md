@@ -17,6 +17,9 @@
   <a href="https://www.youtube.com/channel/UCeDFP_iLSFUACJ1E0yLGgkw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+  <a href="https://steamcommunity.com/id/CristianoRaffiCunha/">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  </a>
   <a href="mailto:contato@cristianoprogramador.com">
     <img src="https://img.shields.io/badge/Email-424242?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a> 
