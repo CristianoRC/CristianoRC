@@ -10,12 +10,12 @@
   </a>
   <a href="https://blog.cristianoprogramador.com/">
     <img src="https://img.shields.io/badge/Blog-424242?logo=devdotto&logoColor=fff&style=for-the-badge" alt="Blog">
-  </a> 
-  <a href="https://www.linkedin.com/in/cristianorc/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.youtube.com/channel/UCeDFP_iLSFUACJ1E0yLGgkw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a> 
+  <a href="https://www.linkedin.com/in/cristianorc/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://steamcommunity.com/id/CristianoRaffiCunha/">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
