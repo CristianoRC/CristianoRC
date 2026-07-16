@@ -8,13 +8,13 @@
 
 Olá! Sou **Cristiano Cunha**, há +10 anos ajudo empresas a construir arquiteturas resilientes, escaláveis e seguras.
 
-Apaixonado por arquitetura de software, liderança técnica, educação e o mundo open source.
+Apaixonado por arquitetura de software, educação e o mundo open source.
 
-[![Site](https://img.shields.io/badge/Site-46879C?style=flat-square&logo=googlechrome&logoColor=white)](https://cristianoprogramador.com)
-[![Blog](https://img.shields.io/badge/Blog-46879C?style=flat-square&logo=devdotto&logoColor=white)](https://blog.cristianoprogramador.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-46879C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianorc/)
-[![YouTube](https://img.shields.io/badge/YouTube-46879C?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeDFP_iLSFUACJ1E0yLGgkw)
-[![Steam](https://img.shields.io/badge/Steam-46879C?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/CristianoRaffiCunha/)
-[![Email](https://img.shields.io/badge/Email-46879C?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@cristianoprogramador.com)
+[![Site](https://img.shields.io/badge/Site-25303F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cristianoprogramador.com)
+[![Blog](https://img.shields.io/badge/Blog-25303F?style=for-the-badge&logo=devdotto&logoColor=white)](https://blog.cristianoprogramador.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-25303F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianorc/)
+[![YouTube](https://img.shields.io/badge/YouTube-25303F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeDFP_iLSFUACJ1E0yLGgkw)
+[![Steam](https://img.shields.io/badge/Steam-25303F?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/CristianoRaffiCunha/)
+[![Email](https://img.shields.io/badge/Email-25303F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@cristianoprogramador.com)
 
 </div>
